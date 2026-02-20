@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajj2104&layout=compact&bg_color=ffffff20&title_color=924ac2&text_color=c9d1d9&)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajj2104&layout=compact&bg_color=ffffff20&title_color=924ac2&text_color=c9d1d9)
 <!--
 **dhirajj2104/dhirajj2104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
